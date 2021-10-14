@@ -1,6 +1,6 @@
 - Hi, I’m Evgeniy Semenov (@edelwi), I’m a system administrator and python programmer at Lobachevsky University.
 - I’m interested in integrating various projects with each other on Windows and Linux platforms, a little web development.
-- I’m currently learning aiohttp.
+- I’m currently learning aiohttp and FastAPI.
 - I often use various open source projects, and I hope some of my projects will also be useful to someone.
 - 📫 How to reach me ... by e-mail all_post @ mail.ru :)
 
