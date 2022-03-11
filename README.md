@@ -1,4 +1,4 @@
-- Hi, I’m Evgeniy Semenov (@edelwi), I’m a system administrator and python programmer at Lobachevsky University.
+- Hi, I’m Evgeniy Semenov (@edelwi), I’m a python programmer at DZ-Center.
 - I’m interested in integrating various projects with each other on Windows and Linux platforms, a little web development.
 - I’m currently learning aiohttp and FastAPI.
 - I often use various open source projects, and I hope some of my projects will also be useful to someone.
